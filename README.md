@@ -27,7 +27,7 @@
   
   ## License 
 
-  **Jest Another RPG** is distrubted under the [MIT](https://opensource.org/licenses/MIT) License
+  **Jest Another RPG** is distributed under the [MIT](https://opensource.org/licenses/MIT) License
     
 
   
